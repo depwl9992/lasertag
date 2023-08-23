@@ -26,32 +26,32 @@ Currently the following hardware has been acquired for testing
 
 ## Brainstorming Notes
 1. Sensors vs. Mobility
-- Tactical Vest
-- Easy to wire sensors with color-coded lights to indicate teams/wounded state
-- Bike helmet
+    - Tactical Vest
+    - Easy to wire sensors with color-coded lights to indicate teams/wounded state
+    - Bike helmet
 
 2. Team Selection/Friendly Fire
-- Choose sensor colors
-- Change friendly fire toggle
-- Every player has UID transmitted with a shot that sensors can decode
-- Friendly Fire off - teammates ignore each others' UIDs
+    - Choose sensor colors
+    - Change friendly fire toggle
+    - Every player has UID transmitted with a shot that sensors can decode
+    - Friendly Fire off - teammates ignore each others' UIDs
 
 3. Recharging/Healing, Wounded vs. Dead, Point counting
-- Wounded - Imagine zombie mode
-- If you're wounded, you go red and must find a recharge station/beacon to reset.
-- Zombie Mode - You vs. everyone (except other zombies).
-- If hit while wounded, you die and are eliminated (D&D death save rules??)
+    - Wounded - Imagine zombie mode
+    - If you're wounded, you go red and must find a recharge station/beacon to reset.
+    - Zombie Mode - You vs. everyone (except other zombies).
+    - If hit while wounded, you die and are eliminated (D&D death save rules??)
 
 4. Turrets, beacons, portability, scoring
-- 3d printable turrets and beacons (or at least the housings for the electronics) using clear resin
-- battery powered = fully portable.
-- guns can hold score and recharge station/beacons could transfer current player score to the central server
-- or wifi connection could maintain live scoring AND wifi coverage could define the radius of the playfield.
-- Wifi would be pretty power intensive, though.
+    - 3d printable turrets and beacons (or at least the housings for the electronics) using clear resin
+    - battery powered = fully portable.
+    - guns can hold score and recharge station/beacons could transfer current player score to the central server
+    - or wifi connection could maintain live scoring AND wifi coverage could define the radius of the playfield.
+    - Wifi would be pretty power intensive, though.
 
 5. Other items and ideas
-- Error Handling (outside/daytime)
-- Staged development (start with base design)
-- Dog vest
-- Wireless = hackable
-- Grenades - shock absorbant electronics with spray pattern of IR transmitters.
+    - Error Handling (outside/daytime)
+    - Staged development (start with base design)
+    - Dog vest
+    - Wireless = hackable
+    - Grenades - shock absorbant electronics with spray pattern of IR transmitters.
