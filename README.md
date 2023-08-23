@@ -35,6 +35,7 @@ Currently the following hardware has been acquired for testing
     - Change friendly fire toggle
     - Every player has UID transmitted with a shot that sensors can decode
     - Friendly Fire off - teammates ignore each others' UIDs
+    - Spy mode - like on TRON, give players a chance to take on COLOR of the opposing team
 
 3. Recharging/Healing, Wounded vs. Dead, Point counting
     - Wounded - Imagine zombie mode
