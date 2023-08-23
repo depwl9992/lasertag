@@ -56,3 +56,4 @@ Currently the following hardware has been acquired for testing
     - Dog vest
     - Wireless = hackable
     - Grenades - shock absorbant electronics with spray pattern of IR transmitters.
+    - High power RGB LEDs or actual laser diodes? Laser means eye protection, and green flash goggles suggest everyone would be color blind.
